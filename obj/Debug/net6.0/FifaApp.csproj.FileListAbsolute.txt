@@ -1,0 +1,17 @@
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\3\FifaApp\bin\Debug\net6.0\FifaApp.exe
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\3\FifaApp\bin\Debug\net6.0\FifaApp.deps.json
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\3\FifaApp\bin\Debug\net6.0\FifaApp.runtimeconfig.json
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\3\FifaApp\bin\Debug\net6.0\FifaApp.dll
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\3\FifaApp\bin\Debug\net6.0\FifaApp.pdb
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\3\FifaApp\obj\Debug\net6.0\FifaApp.csproj.AssemblyReference.cache
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\3\FifaApp\obj\Debug\net6.0\FifaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\3\FifaApp\obj\Debug\net6.0\FifaApp.AssemblyInfoInputs.cache
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\3\FifaApp\obj\Debug\net6.0\FifaApp.AssemblyInfo.cs
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\3\FifaApp\obj\Debug\net6.0\FifaApp.csproj.CoreCompileInputs.cache
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\3\FifaApp\obj\Debug\net6.0\FifaApp.dll
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\3\FifaApp\obj\Debug\net6.0\refint\FifaApp.dll
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\3\FifaApp\obj\Debug\net6.0\FifaApp.pdb
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\3\FifaApp\obj\Debug\net6.0\FifaApp.genruntimeconfig.cache
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\3\FifaApp\obj\Debug\net6.0\ref\FifaApp.dll
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\3\FifaApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\3\FifaApp\obj\Debug\net6.0\FifaApp.csproj.CopyComplete
